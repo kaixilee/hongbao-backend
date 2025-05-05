@@ -1,4 +1,4 @@
-namespace HongBao.Tests;
+namespace HongBaoApi.Tests;
 
 public class UnitTest1
 {
